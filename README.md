@@ -1,6 +1,8 @@
+
+
 - 👋 Hi, I’m @deveca-dev
 - 👀 I’m interested in ... 
-- 🌱 I’m currently learning ... Swift
+- 🌱 I’m currently learning ... Swift, JavaScript, Node, React
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... collab[at]deveca[dot]dev
 
